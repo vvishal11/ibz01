@@ -14,7 +14,7 @@ export default function Main() {
           <br></br>
           <p class="mx-auto  text-xl font-normal leading-relaxed text-gray-600 dark:text-gray-300 lg:w-2/3">
             infinityuponzero gives you access to the portal of the future 
-            <br> we are to the community, by the community, for the community<\br>
+            <br> we are to the community, by the community, for the community</br>
             /* {" "}
             <a href="https://nextjs.org/" className="underline">
               Next.js
