@@ -7,13 +7,13 @@ export default function Main() {
       <div class="container px-5 pt-32 mx-auto lg:px-4 lg:py-4">
         <div class="flex flex-col w-full mb-2 text-left md:text-center ">
           <h1 class="mb-2 text-6xl font-bold tracking-tighter text-white lg:text-8xl md:text-7xl">
-            <span>We are one of a </span>
+            <span>We are one of a kind </span>
             <br class="hidden lg:block"></br>
-            kind community backed venture
+            community backed venture
           </h1>
           <br></br>
           <p class="mx-auto  text-xl font-normal leading-relaxed text-gray-600 dark:text-gray-300 lg:w-2/3">
-            nine4 is a free to use template website for websites made with{" "}
+            infinityuponzero gives you access to the portal of the future {" "}
             <a href="https://nextjs.org/" className="underline">
               Next.js
             </a>{" "}
