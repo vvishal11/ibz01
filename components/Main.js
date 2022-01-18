@@ -13,8 +13,8 @@ export default function Main() {
           </h1>
           <br></br>
           <p class="mx-auto  text-xl font-normal leading-relaxed text-gray-600 dark:text-gray-300 lg:w-2/3">
-            infinityuponzero gives you access to the portal of the future <br>
-            To the community, By the community, For the community </br>
+            infinityuponzero gives you access to the portal of the future <br></br>
+            To the community, By the community, For the community
           </p>
         </div>
       </div>
