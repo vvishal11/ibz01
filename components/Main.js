@@ -13,13 +13,8 @@ export default function Main() {
           </h1>
           <br></br>
           <p class="mx-auto  text-xl font-normal leading-relaxed text-gray-600 dark:text-gray-300 lg:w-2/3">
-            infinityuponzero gives you access to the portal of the future 
-             we are to the community, by the community, for the community
-            /* {" "}
-            <a href="https://nextjs.org/" className="underline">
-              Next.js
-            </a>{" "}
-            and styled with Tailwind CSS */
+            infinityuponzero gives you access to the portal of the future <br>
+            To the community, By the community, For the community </br>
           </p>
         </div>
       </div>
