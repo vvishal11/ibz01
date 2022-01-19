@@ -212,7 +212,7 @@ export default function Main() {
 
 {/* first member */}
 
-                <div class="p-4 lg:w-1/4 md:w-1/2">
+                <div class="p-4 lg:w-1/4 md:w-1/2 mx-10">
                   <div class="h-full flex flex-col items-center text-center">
                     <img
                       alt="team"
