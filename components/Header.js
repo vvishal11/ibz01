@@ -7,7 +7,7 @@ export default function Header() {
     <header class="text-white body-font">
       <div class="container mx-auto flex flex-wrap p-5 md:flex-row">
         <a class="flex title-font font-medium text-white mb-4 md:mb-0 pr-4" href="/">
-          <span class="ml-3 text-3xl">infinityuponzero</span>
+          <span class="ml-3 text-2xl lg:text-3xl md:text-3xl">infinityuponzero</span>
         </a>
     {/*
         <button
