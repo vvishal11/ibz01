@@ -150,6 +150,7 @@ export default function Main() {
               <div class="flex flex-wrap -m-4">
                 
                 
+   {/*        
                 <div class="p-4 lg:w-1/4 md:w-1/2">
                   <div class="h-full flex flex-col items-center text-center">
                     <img
@@ -207,13 +208,15 @@ export default function Main() {
                     </div>
                   </div>
                 </div>
+*/}
 
+{/* first member */}
 
                 <div class="p-4 lg:w-1/4 md:w-1/2">
                   <div class="h-full flex flex-col items-center text-center">
                     <img
                       alt="team"
-                      class="flex-shrink-0 rounded-lg w-full h-56 object-cover object-center mb-4"
+                      class="flex-shrink-0 rounded-full w-full h-56 object-cover object-center mb-4 "
                       src="./images/M01.png"
                     ></img>
                     <div class="w-full">
