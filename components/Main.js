@@ -19,7 +19,7 @@ export default function Main() {
       </div>
       <div class="container flex flex-col items-center justify-center py-8 mx-auto rounded-lg md:p-1 p-3">
         <img
-          class="object-cover object-center w-full mb-10 g327 border rounded-lg shadow-md"
+          class="object-cover object-center w-full mb-10 g327 border rounded-lg"
           alt="hero"
           src="./images/placeholder03.png"
         ></img>
