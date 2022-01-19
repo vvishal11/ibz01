@@ -6,7 +6,7 @@ export default function Main() {
     <section class="text-black body-font lg:pt-20">
       <div class="container px-5 pt-32 mx-auto lg:px-4 lg:py-4">
         <div class="flex flex-col w-full mb-2 text-left md:text-center ">
-          <h1 class="mb-2 text-6xl font-bold tracking-tighter text-white lg:text-8xl md:text-7xl">
+          <h1 class="mb-2 text-4xl font-bold tracking-tighter text-white lg:text-8xl md:text-7xl">
             <span>We are one of a kind </span>
             <br class="hidden lg:block"></br>
             community backed venture
