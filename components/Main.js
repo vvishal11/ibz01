@@ -30,39 +30,39 @@ export default function Main() {
             <div class="flex flex-wrap -m-4 text-center">
               <div class="p-4 sm:w-1/3 w-1/2">
                 <h2 class="title-font font-medium sm:text-5xl text-3xl text-white">
-                  <CountUp end={940} redraw={true}>
+                  <CountUp end={1000} redraw={true}>
                     {({ countUpRef, start }) => (
                       <VisibilitySensor onChange={start} delayedCall>
                         <span ref={countUpRef} />
                       </VisibilitySensor>
                     )}
-                  </CountUp>
+                  </CountUp>+
                 </h2>
-                <p class="leading-relaxed">Users</p>
+                <p class="leading-relaxed">Members</p>
               </div>
               <div class="p-4 sm:w-1/3 w-1/2">
                 <h2 class="title-font font-medium sm:text-5xl text-3xl text-white">
-                  <CountUp end={740} redraw={true}>
+                  <CountUp end={2000} redraw={true}>
                     {({ countUpRef, start }) => (
                       <VisibilitySensor onChange={start} delayedCall>
                         <span ref={countUpRef} />
                       </VisibilitySensor>
                     )}
-                  </CountUp>
+                  </CountUp>+
                 </h2>
-                <p class="leading-relaxed">Subscribes</p>
+                <p class="leading-relaxed">Youtube Subscribes</p>
               </div>
               <div class="p-4 sm:w-1/3 w-1/2">
                 <h2 class="title-font font-medium sm:text-4xl text-3xl text-white">
-                  <CountUp end={315} redraw={true}>
+                  <CountUp end={10} redraw={true}>
                     {({ countUpRef, start }) => (
                       <VisibilitySensor onChange={start} delayedCall>
                         <span ref={countUpRef} />
                       </VisibilitySensor>
                     )}
-                  </CountUp>
+                  </CountUp>+
                 </h2>
-                <p class="leading-relaxed">Downloads</p>
+                <p class="leading-relaxed">Projects in portfolio</p>
               </div>
             </div>
           </div>
