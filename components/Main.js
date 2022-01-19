@@ -4,7 +4,7 @@ import VisibilitySensor from "react-visibility-sensor";
 export default function Main() {
   return (
     <section class="text-black body-font lg:pt-20">
-      <div class="container px-3 pt-20 mx-auto lg:px-4 lg:py-4">
+      <div class="container px-3 pt-16 mx-auto lg:px-4 lg:py-4">
         <div class="flex flex-col w-full mb-2 text-center md:text-center ">
           <h1 class="mb-2 text-4xl font-bold tracking-tighter text-white lg:text-8xl md:text-7xl">
             <span>We are one of a kind </span>
@@ -13,14 +13,13 @@ export default function Main() {
           </h1>
           <br></br>
           <p class="mx-auto  text-xl font-normal leading-relaxed text-gray-600 dark:text-gray-300 lg:w-2/3">
-            infinityuponzero gives you access to the portal of the future <br></br>
-            To the community, By the community, For the community
+            Infinityuponzero gives you access to the portal of the future. It is for the community, to the community & by the community
           </p>
         </div>
       </div>
       <div class="container flex flex-col items-center justify-center py-8 mx-auto rounded-lg md:p-1 p-3">
         <img
-          class="object-cover object-center w-full mb-10 border-gray-0 dark:border-gray-900 g327 border rounded-lg shadow-md"
+          class="object-cover object-center w-full mb-10 g327 border rounded-lg shadow-md"
           alt="hero"
           src="./images/placeholder03.png"
         ></img>
