@@ -53,7 +53,7 @@ export default function Main() {
                 <p class="leading-relaxed">Youtube Subscribes</p>
               </div>
               <div class="p-4 sm:w-1/3 w-1/2">
-                <h2 class="title-font font-medium sm:text-4xl text-3xl text-white">
+                <h2 class="title-font font-medium sm:text-5xl text-3xl text-white">
                   <CountUp end={10} redraw={true}>
                     {({ countUpRef, start }) => (
                       <VisibilitySensor onChange={start} delayedCall>
