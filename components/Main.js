@@ -22,7 +22,7 @@ export default function Main() {
         <img
           class="object-cover object-center w-full mb-10 border-gray-200 dark:border-gray-900 g327 border rounded-lg shadow-md"
           alt="hero"
-          src="./images/placeholder.png"
+          src="./images/placeholder01.png"
         ></img>
       </div>
       <section class="text-gray-600 body-font">
