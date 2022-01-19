@@ -9,7 +9,7 @@ export default function Main() {
           <h1 class="mb-2 text-4xl font-bold tracking-tighter text-white lg:text-8xl md:text-7xl">
             <span>We are one of a kind </span>
             <br class="hidden lg:block"></br>
-            community backed venture
+            community-backed venture
           </h1>
           <br></br>
           <p class="mx-auto  text-xl font-normal leading-relaxed text-gray-600 dark:text-gray-300 lg:w-2/3">
