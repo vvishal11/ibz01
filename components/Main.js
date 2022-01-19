@@ -145,9 +145,8 @@ export default function Main() {
               <div class="w-16 h-1 rounded-full bg-white inline-flex"></div>
             </div>
 
-<div class= "mx-auto justify-center">
 
-            <div class="container px-5 py-16 mx-auto">
+            <div class="container px-5 py-16 mx-auto items-center">
               <div class="flex flex-wrap -m-4">
                 
                 
@@ -226,7 +225,7 @@ export default function Main() {
                       </h2>
                       <h3 class="text-gray-500 mb-3">Web Developer</h3>
                       <p class="mb-4">
-                        Chris is part of our front-end team providing amazing
+                        infinity is part of our front-end team providing amazing
                         websites.
                       </p>
                       <span class="inline-flex">
@@ -330,14 +329,14 @@ export default function Main() {
                   </div>
                 </div>
 */}
-
+{/* second member */}
 
                 <div class="p-4 lg:w-1/4 md:w-1/2">
                   <div class="h-full flex flex-col items-center text-center">
                     <img
                       alt="team"
                       class="flex-shrink-0 rounded-full w-full h-56 object-cover object-center mb-4"
-                      src="./images/M01.png"
+                      src="./images/M02.jpg"
                     ></img>
                     <div class="w-full">
                       <h2 class="title-font font-medium text-lg text-white">
@@ -345,7 +344,7 @@ export default function Main() {
                       </h2>
                       <h3 class="text-gray-500 mb-3">Web Developer</h3>
                       <p class="mb-4">
-                        Chris is part of our front-end team providing amazing
+                        SD is part of our front-end team providing amazing
                         websites.
                       </p>
                       <span class="inline-flex">
@@ -389,7 +388,6 @@ export default function Main() {
                     </div>
                   </div>
                 </div>
-</div>
 
               </div>
             </div>
