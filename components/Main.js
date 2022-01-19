@@ -336,7 +336,7 @@ export default function Main() {
                   <div class="h-full flex flex-col items-center text-center">
                     <img
                       alt="team"
-                      class="flex-shrink-0 rounded-lg w-full h-56 object-cover object-center mb-4"
+                      class="flex-shrink-0 rounded-full w-full h-56 object-cover object-center mb-4"
                       src="./images/M02.png"
                     ></img>
                     <div class="w-full">
