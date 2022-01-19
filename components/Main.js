@@ -142,13 +142,13 @@ export default function Main() {
               Here is our company
             </p>
             <div class="flex mt-6 justify-center">
-              <div class="w-16 h-1 rounded-full bg-white inline-flex"></div>
+              <div class="w-16 h-1 rounded-full bg-white inline-flex"> check01</div>
             </div>
 
 
-            <div class="container px-5 py-16 mx-auto items-center">
+            <div class="container px-5 py-16 mx-auto items-center"> check02
               <div class="flex flex-wrap -m-4">
-                
+                check03
                 
    {/*        
                 <div class="p-4 lg:w-1/4 md:w-1/2">
@@ -213,7 +213,7 @@ export default function Main() {
 {/* first member */}
 
                 <div class="p-4 lg:w-1/4 md:w-1/2">
-                  <div class="h-full flex flex-col items-center text-center">
+                  <div class="h-full flex flex-col items-center text-center"> check04
                     <img
                       alt="team"
                       class="flex-shrink-0 rounded-full w-full h-56 object-cover object-center mb-4 "
