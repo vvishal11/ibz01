@@ -145,7 +145,7 @@ export default function Main() {
               <div class="w-16 h-1 rounded-full bg-white inline-flex"></div>
             </div>
 
-<div class= "mx-auto">
+<div class= "mx-auto justify-center">
 
             <div class="container px-5 py-16 mx-auto">
               <div class="flex flex-wrap -m-4">
@@ -337,7 +337,7 @@ export default function Main() {
                     <img
                       alt="team"
                       class="flex-shrink-0 rounded-lg w-full h-56 object-cover object-center mb-4"
-                      src="./images/placeholder.png"
+                      src="./images/M02.png"
                     ></img>
                     <div class="w-full">
                       <h2 class="title-font font-medium text-lg text-white">
