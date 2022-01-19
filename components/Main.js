@@ -131,6 +131,7 @@ export default function Main() {
           </div>
         </div>
       </section>
+
       <section class="text-gray-600 body-font">
         <div class="container px-5 mx-auto">
           <div class="text-center mb-20">
@@ -144,7 +145,7 @@ export default function Main() {
               <div class="w-16 h-1 rounded-full bg-white inline-flex"></div>
             </div>
 
-
+<div class= "mx-auto">
 
             <div class="container px-5 py-16 mx-auto">
               <div class="flex flex-wrap -m-4">
@@ -388,6 +389,8 @@ export default function Main() {
                     </div>
                   </div>
                 </div>
+</div>
+
               </div>
             </div>
           </div>
