@@ -146,8 +146,8 @@ export default function Main() {
             </div>
 
 
-            <div class="container px-5 py-16 mx-auto items-center"> check02
-              <div class="flex flex-wrap items-center content-center"> check03
+            <div class="container px-5 py-16 mx-auto items-center justify-center"> check02
+              <div class="flex flex-wrap items-center"> check03
                
                 
    {/*        
