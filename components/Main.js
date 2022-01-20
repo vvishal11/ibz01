@@ -224,7 +224,7 @@ export default function Main() {
                         Chris
                       </h2>
                       <h3 class="text-gray-500 mb-3">Founder</h3>
-                      <p class="mb-4"> Infinityuponzero is the brainchild of Chris. 
+                      <p class="mb-4"> Chief Executive Officer 
                         
                       </p>
                       <span class="inline-flex">
@@ -339,12 +339,12 @@ export default function Main() {
                     ></img>
                     <div class="w-full">
                       <h2 class="title-font font-medium text-lg text-white">
-                        Chris
+                        Adam
                       </h2>
                       <h3 class="text-gray-500 mb-3">Co-Founder</h3>
                       <p class="mb-4">
-                        SD is part of our front-end team providing amazing
-                        websites.
+                        Chief Operating Officer
+                        
                       </p>
                       <span class="inline-flex">
                         <a class="text-gray-500">
