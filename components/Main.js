@@ -67,64 +67,64 @@ export default function Main() {
             </div>
           </div>
         </section>
+
+
         <div class="container px-5 py-24 mx-auto flex flex-wrap">
           <div class="lg:w-1/2 w-full mb-10 lg:mb-0 rounded-lg overflow-hidden">
             <img
               alt="feature"
               class="object-cover object-center h-full w-full"
-              src="./images/placeholder.png"
+              src="./images/placeholder04.png"
             ></img>
           </div>
           <div class="flex flex-col flex-wrap lg:py-6 -mb-10 lg:w-1/2 lg:pl-12 lg:text-left text-center">
             <div class="flex flex-col mb-10 lg:items-start items-center">
               <div class="flex-grow">
                 <h2 class="text-white text-2xl title-font font-medium mb-3">
-                  Free
+                  Research & Analysis
                 </h2>
                 <p class="leading-relaxed text-lg">
-                  All of our templates are 100% free forever.
+                  In-depth analysis of potential project, first essential step before project is presented in front of the community.
                 </p>
               </div>
             </div>
             <div class="flex flex-col mb-10 lg:items-start items-center">
               <div class="flex-grow">
                 <h2 class="text-white text-2xl title-font font-medium mb-3">
-                  Responsive
+                  Partnership
                 </h2>
                 <p class="leading-relaxed text-lg">
-                  All our templates come with full responsiveness straight out
-                  of the box.
+                  The strategic partnership focuses on the success of project in long run.
                 </p>
               </div>
             </div>
             <div class="flex flex-col mb-10 lg:items-start items-center">
               <div class="flex-grow">
                 <h2 class="text-white text-2xl title-font font-medium mb-3">
-                  SEO Friendly
+                  Marketing
                 </h2>
                 <p class="leading-relaxed text-lg">
-                  Our templates have the best SEO practices ensuring you get to
-                  the top.
+                  Our top level marketing ensures project gets huge exposure at global and regional level.
                 </p>
               </div>
             </div>
             <div class="flex flex-col mb-10 lg:items-start items-center">
               <div class="flex-grow">
                 <h2 class="text-white text-2xl title-font font-medium mb-3">
-                  Fast
+                  KOLs/Influencer’s connections
                 </h2>
                 <p class="leading-relaxed text-lg">
-                  The fastest websites you can get.
+                  The best connection which you need to grow your project lies with us.
                 </p>
               </div>
             </div>
             <div class="flex flex-col mb-10 lg:items-start items-center">
               <div class="flex-grow">
                 <h2 class="text-white text-2xl title-font font-medium mb-3">
-                  Google Analytics Supported
+                  Raise Funds
                 </h2>
                 <p class="leading-relaxed text-lg">
-                  All our templates come with full support for Google Analytics.
+                  Required fund is collected form the community for potential projects.
                 </p>
               </div>
             </div>
