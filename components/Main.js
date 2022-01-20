@@ -73,7 +73,7 @@ export default function Main() {
           <div class="lg:w-1/2 w-full mb-10 lg:mb-0 rounded-lg overflow-hidden">
             <img
               alt="feature"
-              class="object-cover object-center h-full w-full"
+              class="object-cover object-center h-auto w-full"
               src="./images/placeholder04.PNG"
             ></img>
           </div>
@@ -223,10 +223,9 @@ export default function Main() {
                       <h2 class="title-font font-medium text-lg text-white">
                         Chris
                       </h2>
-                      <h3 class="text-gray-500 mb-3">Web Developer</h3>
-                      <p class="mb-4">
-                        infinity is part of our front-end team providing amazing
-                        websites.
+                      <h3 class="text-gray-500 mb-3">Founder</h3>
+                      <p class="mb-4"> Infinityuponzero is the brainchild of Chris. 
+                        
                       </p>
                       <span class="inline-flex">
                         <a class="text-gray-500">
@@ -342,7 +341,7 @@ export default function Main() {
                       <h2 class="title-font font-medium text-lg text-white">
                         Chris
                       </h2>
-                      <h3 class="text-gray-500 mb-3">Web Developer</h3>
+                      <h3 class="text-gray-500 mb-3">Co-Founder</h3>
                       <p class="mb-4">
                         SD is part of our front-end team providing amazing
                         websites.
