@@ -137,11 +137,12 @@ export default function Main() {
 
 {/* our portfolio  */}
 
-<div class="flex flex-wrap items-center justify-center">
+<div class= "justify-center px-5 py-24 mx-auto">
   
    <h2 class="sm:text-5xl font-medium title-font text-white mb-4">
               Our Portfolio
             </h2>
+<div class="flex flex-wrap items-center justify-center">
 
    <div class="lg:w-1/8 w-1/4 mb-6 lg:mb-0 overflow-hidden">  <img
               alt="feature"
@@ -160,7 +161,8 @@ export default function Main() {
               class="object-cover object-center h-auto w-full"
               src="./images/placeholder04.PNG"
             ></img>  </div>
-              
+       
+</div>
   
 </div>
               {/* our portfolio  ends */}
