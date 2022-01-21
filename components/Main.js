@@ -77,6 +77,9 @@ export default function Main() {
               src="./images/placeholder04.PNG"
             ></img>
           </div>
+
+
+
           <div class="flex flex-col flex-wrap lg:py-6 -mb-10 lg:w-1/2 lg:pl-12 lg:text-left text-center">
             <div class="flex flex-col mb-10 lg:items-start items-center">
               <div class="flex-grow">
@@ -131,6 +134,31 @@ export default function Main() {
           </div>
         </div>
       </section>
+
+{/* our portfolio  */}
+
+<div class="flex flex-wrap items-center justify-center">
+   <div class="lg:w-1/8 w-1b4 mb-6 lg:mb-0 overflow-hidden">  <img
+              alt="feature"
+              class="object-cover object-center h-auto w-full"
+              src="./images/placeholder04.PNG"
+            ></img>  </div>
+              
+    <div class="lg:w-1/8 w-1/4 mb-6 lg:mb-0 overflow-hidden">  <img
+              alt="feature"
+              class="object-cover object-center h-auto w-full"
+              src="./images/placeholder04.PNG"
+            ></img>  </div>
+              
+     <div class="lg:w-1/8 w-1/4 mb-6 lg:mb-0 overflow-hidden">  <img
+              alt="feature"
+              class="object-cover object-center h-auto w-full"
+              src="./images/placeholder04.PNG"
+            ></img>  </div>
+              
+  
+<\div>
+              {/* our portfolio  ends */}
 
       <section class="text-gray-600 body-font">
         <div class="container px-5 mx-auto">
