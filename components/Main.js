@@ -142,7 +142,7 @@ export default function Main() {
    <h2 class="sm:text-5xl font-medium title-font text-white mb-4">
               Our Portfolio
             </h2>
-<div class="flex flex-wrap items-center justify-center ">
+<div class="flex flex-wrap items-center justify-center w-1/2 ">
 
    <div class="lg:w-1/8 w-1/4 mb-6 lg:mb-0 overflow-hidden">  <img
               alt="feature"
