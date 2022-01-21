@@ -157,7 +157,7 @@ export default function Main() {
             ></img>  </div>
               
   
-<\div>
+</div>
               {/* our portfolio  ends */}
 
       <section class="text-gray-600 body-font">
