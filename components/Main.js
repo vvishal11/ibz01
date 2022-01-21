@@ -137,7 +137,7 @@ export default function Main() {
 
 {/* our portfolio  */}
 
-<div class= "justify-center px-5 py-24 mx-auto">
+<div class= "justify-center px-5 py-24 mx-auto text-center">
   
    <h2 class="sm:text-5xl font-medium title-font text-white mb-4">
               Our Portfolio
