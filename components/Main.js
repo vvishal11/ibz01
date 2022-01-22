@@ -135,7 +135,7 @@ export default function Main() {
         </div>
       </section>
 
-{/* our portfolio */}
+{/* our portfolio
 
 <div class= "justify-center px-5 py-16 mx-auto items-center">
   
@@ -179,17 +179,17 @@ export default function Main() {
 </div>
   
 </div>
-{/*  our portfolio  ends   */}
+ our portfolio  ends   */}
 
       <section class="text-gray-600 body-font">
         <div class="container px-5 mx-auto">
           <div class="text-center mb-20">
-            <h2 class="sm:text-lg font-medium title-font text-white mb-4">
+            <h2 class="sm:text-5xl font-medium title-font text-white mb-4">
               Our Team
             </h2>
-            <p class="text-base leading-relaxed xl:w-2/4 lg:w-3/4 mx-auto text-gray-500s">
+{/*      <p class="text-base leading-relaxed xl:w-2/4 lg:w-3/4 mx-auto text-gray-500s">
               Here is our company
-            </p>
+            </p> */}
             <div class="flex mt-6 justify-center">
               <div class="w-16 h-1 rounded-full bg-white inline-flex"></div>
             </div>
@@ -273,9 +273,10 @@ export default function Main() {
                         Chris
                       </h2>
                       <h3 class="text-gray-500 mb-3">Founder</h3>
-                      <p class="mb-4"> Chief Executive Officer 
+{/*      <p class="mb-4"> Chief Executive Officer 
                         
-                      </p>
+                      </p> */}
+
                       <span class="inline-flex">
                         <a class="text-gray-500">
                           <svg
@@ -391,10 +392,10 @@ export default function Main() {
                         Adam
                       </h2>
                       <h3 class="text-gray-500 mb-3">Co-Founder</h3>
-                      <p class="mb-4">
+{/*      <p class="mb-4">
                         Chief Operating Officer
                         
-                      </p>
+                      </p>  */}
                       <span class="inline-flex">
                         <a class="text-gray-500">
                           <svg
