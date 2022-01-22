@@ -148,31 +148,31 @@ export default function Main() {
    <div class="lg:w-1/8 w-1/4 m-6 lg:mb-0 overflow-hidden bg-gray">  <img
               alt="feature"
               class="object-cover object-center h-auto w-full"
-              src="./images/placeholder04.PNG"
+              src="./images/pf01.PNG"
             ></img>  </div>
               
     <div class="lg:w-1/8 w-1/4 m-6 lg:mb-0 overflow-hidden bg-blue">  <img
               alt="feature"
               class="object-cover object-center h-auto w-full"
-              src="./images/placeholder04.PNG"
+              src="./images/pf02.PNG"
             ></img>  </div>
               
      <div class="lg:w-1/8 w-1/4 m-6 lg:mb-0 overflow-hidden">  <img
               alt="feature"
               class="object-cover object-center h-auto w-full"
-              src="./images/placeholder04.PNG"
+              src="./images/pf03.PNG"
             ></img>  </div>
               
        <div class="lg:w-1/8 w-1/4 m-6 lg:mb-0 overflow-hidden">  <img
               alt="feature"
               class="object-cover object-center h-auto w-full"
-              src="./images/placeholder04.PNG"
+              src="./images/pf01.PNG"
             ></img>  </div>        
               
          <div class="lg:w-1/8 w-1/4 m-6 lg:mb-0 overflow-hidden">  <img
               alt="feature"
               class="object-cover object-center h-auto w-full"
-              src="./images/placeholder04.PNG"
+              src="./images/pf02.PNG"
             ></img>  </div>
          
        
