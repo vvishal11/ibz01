@@ -135,13 +135,14 @@ export default function Main() {
         </div>
       </section>
 
-{/* our portfolio  */}
+{/* our portfolio */}
 
-<div class= "justify-center px-5 py-16 mx-auto text-center item-center">
+<div class= "justify-center px-5 py-16 mx-auto item-center">
   
-   <h2 class="sm:text-5xl font-medium title-font text-white mb-4">
+   <div class="text-center"><h2 class="sm:text-5xl font-medium title-font text-white mb-4">
               Our Portfolio
-            </h2>
+            </h2></div>
+              
 <div class="flex flex-wrap items-center justify-center w-1/2 bg-gray">
 
    <div class="lg:w-1/8 w-1/4 m-6 lg:mb-0 overflow-hidden bg-gray">  <img
@@ -178,7 +179,7 @@ export default function Main() {
 </div>
   
 </div>
-              {/* our portfolio  ends */}
+{/*  our portfolio  ends   */}
 
       <section class="text-gray-600 body-font">
         <div class="container px-5 mx-auto">
