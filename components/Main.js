@@ -137,9 +137,9 @@ export default function Main() {
 
 {/* our portfolio */}
 
-<div class= "justify-center px-5 py-16 mx-auto item-center">
+<div class= "justify-center px-5 py-16 mx-auto items-center">
   
-   <div class="text-center"><h2 class="sm:text-5xl font-medium title-font text-white mb-4">
+   <div class="text-center"><h2 class="sm:text-lg font-medium title-font text-white mb-4">
               Our Portfolio
             </h2></div>
               
@@ -184,7 +184,7 @@ export default function Main() {
       <section class="text-gray-600 body-font">
         <div class="container px-5 mx-auto">
           <div class="text-center mb-20">
-            <h2 class="sm:text-5xl font-medium title-font text-white mb-4">
+            <h2 class="sm:text-lg font-medium title-font text-white mb-4">
               Our Team
             </h2>
             <p class="text-base leading-relaxed xl:w-2/4 lg:w-3/4 mx-auto text-gray-500s">
