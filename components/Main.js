@@ -270,7 +270,7 @@ export default function Main() {
                     ></img>
                     <div class="w-full">
                       <h2 class="title-font font-medium text-lg text-white">
-                        Chris
+                        Vishal
                       </h2>
                       <h3 class="text-gray-500 mb-3">Founder</h3>
 {/*      <p class="mb-4"> Chief Executive Officer 
@@ -389,7 +389,7 @@ export default function Main() {
                     ></img>
                     <div class="w-full">
                       <h2 class="title-font font-medium text-lg text-white">
-                        Adam
+                        Sudarshan
                       </h2>
                       <h3 class="text-gray-500 mb-3">Co-Founder</h3>
 {/*      <p class="mb-4">
