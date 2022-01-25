@@ -35,7 +35,7 @@ export default function Footer() {
           </a>
     
     
-              <a class="ml-3" href="https://t.me/IndiaDefi">
+              <a class="ml-3" href="https://t.me/CryptoGamingGems">
             
     
     <svg xmlns="http://www.w3.org/2000/svg" 
